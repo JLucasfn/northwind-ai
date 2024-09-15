@@ -1,0 +1,47 @@
+- Informações básicas da empresa:
+- O nome da empresa é Northwind Traders.
+- Suas metas a médio prazo são o aumento do ticket médio e a redução do churn.
+- A empresa possui aproximadamente 30 funcionários.
+- O CEO da empresa se chama Tony Stark.
+- O gerente de TI se chama John Snow.
+- A gerente comercial se chama Maria Antonieta.
+- A empresa possui um faturamento mensal de 1 milhão e meio.
+- Seus principais produtos hoje são alimentos, bebidas e utilidades domésticas.
+- O banco de dados ERP da empresa é PostgreSQL.
+- A empresa utiliza um CRM da Salesforce.
+- A empresa utiliza um sistema de contabilidade da ContaAzul.
+
+- Informações relacionadas as visualizações de dados da empresa:
+- A receita total da empresa é de $22.80 milhões.
+- A categoria que mais obteve receita foi a de 'Meat/Poultry'.
+- A categoria que menos obteve receita foi a de 'Dairy Products'.
+- O ticket médio atual da empresa é $10.58 mil.
+- Existem 8 categorias de produtos que a empresa trabalha.
+- O produto que mais foi vendido se chama Thüringer Rostbratwurst com uma receita de $6.291.692.23 e seu preço unitário é de $12.379.
+- O produto menos vendido se chama Longlife Tofu com uma receita de $2.432.00 e seu preço unitário é de $10.
+- A média do preço de todos os produtos é de $28.83.
+- A empresa teve 830 pedidos totais.
+- O ano que a empresa menos teve pedido foi o de 1996, onde ela teve 152 pedidos.
+- O ano que mais teve pedidos realizados foi 1997, onde ela teve 408 pedidos.
+- O ano de 1998 a empresa teve um total de 270 pedidos.
+- O cliente que mais fez pedidos se chama Save-a-lot Markets, com sede nos EUA, realizou 31 pedidos e o valor total desses pedidos foi de $2.358.005.87.
+- Os clientes que menos fizeram pedidos se chamam FISSA e Paris spécialités, cujo não realizaram nenhum pedido.
+- O valor médio de frete da transportadora United Package é de $8.100.
+- O valor médio de frete da transportadora Federal Shipping é de $7.500.
+- O valor médio de frete da transportadora Speedy Express é de $6.100.
+- O valor médio de frete de todas as transportadoras é de $7.240.
+- O tempo médio de envio é 8 dias e o tempo médoi de recebimento do produto é de 21 dias.
+- O país com mais pedidos é os EUA, com um total de 122 pedidos.
+- O país com menos pedidos é a Noruega, com um total de 6 pedidos.
+- O país com mais clientes é os EUA, com 13 clientes.
+- Os países com menos clientes são a Polônia, Noruega e Irlanda, com 1 cliente cada.
+- O estoque possui um total de 3119 unidades de produtos em estoque.
+- A empresa possui 960 unidades prontas para abastecerem o estoque.
+- Existem 10 produtos descontinuados.
+- O produto com mais unidades em estoque se chama Rhönbräu Klosterbier, com 125 unidades em estoque.
+- Existem 5 produtos com nenhuma unidade em estoque.
+- Atualmente a empresa possui 9 funcionários relacionados a área de vendas.
+- O funcionário com mais vendas se chama Margaret Peacock.
+- A empresa Northwind tem um total de 29 fornecedores.
+- O principal fornecedor se chama Plutzer Lebensmittel.
+- O fornecedor menos solicitado se chama Refrescos Americanas LTDA.
