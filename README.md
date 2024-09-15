@@ -1,18 +1,18 @@
-Descrição
-O arquivo north_AI.ipynb contém um modelo de inteligência artificial que foi alimentado com os dados da Northwind.
+## Descrição
+- O arquivo north_AI.ipynb contém um modelo de inteligência artificial que foi alimentado com os dados da Northwind.
 Ele permite realizar consultas em linguagem natural sobre os dados da empresa.
 
-Instruções de Uso
-Realização de Consultas: Para utilizar o modelo, insira sua pergunta na variável 'pergunta' no notebook.
-O uso do modelo é simples e autoexplicativo, facilitando a interação com os dados.
+## Instruções de Uso
 
-Observações Importantes
-Versões das Dependências: É crucial instalar as versões exatas das bibliotecas conforme especificado no !pip install do primeiro bloco.
-Isso garante a compatibilidade e o correto funcionamento do modelo.
-Estrutura de Arquivos: Certifique-se de que os arquivos north_AI.ipynb e context.txt estejam na mesma pasta.
-Isso evita problemas de acesso e garante que o notebook possa carregar os dados corretamente.
+- Realização de Consultas: Para utilizar o modelo, insira sua pergunta na variável 'pergunta' no notebook.
+- O uso do modelo é simples e autoexplicativo, facilitando a interação com os dados.
 
-Algumas Sugestões de Perguntas:
+## Observações Importantes
+
+- Versões das Dependências: É crucial instalar as versões exatas das bibliotecas conforme especificado no !pip install do primeiro bloco, isso garante a compatibilidade e o correto funcionamento do modelo.
+- Estrutura de Arquivos: Certifique-se de que os arquivos north_AI.ipynb e context.txt estejam na mesma pasta, isso evita problemas de acesso e garante que o notebook possa carregar os dados corretamente.
+
+## Sugestões de Perguntas:
 - Qual o nome da empresa?
 - Quais as metas da empresa?
 - A empresa possui aproximadamente quantos funcionários?
